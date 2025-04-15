@@ -1,8 +1,8 @@
-# 🚀 FastMCP Agent: Notes, Weather & Search 📝☀️📰
+# 🚀 Build Custom MCP Servers 📝☀️📰
 
 ## 📖 Project Description
 
-This project demonstrates a simple agent built using the `FastMCP` library. It provides several tools exposed through the MCP server:
+This project demonstrates a simple MCP Servers built using the MCP `mcp[cli]` Python SDK. It provides several tools exposed through the MCP server:
 
 *   **Note Management:** Add, read, retrieve the latest, and generate summaries of notes stored locally.
 *   **Weather Information:** Fetch current weather data for a specified city using the WeatherAPI.com service.
@@ -21,7 +21,7 @@ Follow these steps to get the FastMCP agent running:
 2.  **Clone the Repository (if you haven't already):**
     ```bash
     # Make sure you are in the correct parent directory
-    git clone <your-repository-url> # Or use the current directory if already cloned
+    git clone https://github.com/sourangshupal/Build-Custom-MCP-Servers # Or use the current directory if already cloned
     cd Build-Custom-MCP-Servers 
     ```
 
@@ -68,7 +68,7 @@ Follow these steps to get the FastMCP agent running:
 *   Current weather fetching ☀️
 *   Brave Search integration for news 📰
 *   Configuration via `.env` file 🔑
-*   Built with `FastMCP` ⚙️
+*   Built with `mcp[cli]` ⚙️
 
 ##🤝 Contributing
 
