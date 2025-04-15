@@ -70,6 +70,6 @@ Follow these steps to get the FastMCP agent running:
 *   Configuration via `.env` file 🔑
 *   Built with `mcp[cli]` ⚙️
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
