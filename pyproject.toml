@@ -1,7 +1,7 @@
 [project]
-name = "mcpservertutorial"
+name = "custompymcpserver"
 version = "0.1.0"
-description = "Add your description here"
+description = "Building your own Custom MCP Servers"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
